@@ -1,0 +1,95 @@
+{
+   "data":[      
+      {
+         "viewType":"horizontalScroll",
+         "header":{
+            "title":"Poziomy wykaz",
+            "hasMore":true
+         },
+         "data":[
+            {
+               "viewType":"horizontalItem",
+               "imageUrl":"https://www.pocztex.pl/jowisz/uploads/2021/09/ikony_pp-odbierz.png",
+               "title":"odbierz",
+               "subTitle":"przesyłkę",
+               "meta":{
+                  "bgColor":"#EF5350"
+               }
+            },
+            {
+               "viewType":"horizontalItem",
+               "imageUrl":"https://www.pocztex.pl/jowisz/uploads/2021/09/ikony_pp-nadaj.png",
+               "title":"nadaj",
+               "subTitle":"paczuszkę",
+               "meta":{
+                  "bgColor":"#EC407A"
+               }
+            },
+			{
+               "viewType":"horizontalItem",
+               "imageUrl":"https://www.pocztex.pl/jowisz/uploads/2021/09/ikony_pp-zwroc.png",
+               "title":"zwróć",
+               "subTitle":"pieniądze",
+               "meta":{
+                  "bgColor":"#5C6BC0"
+               }
+			},
+			{
+               "viewType":"horizontalItem",
+               "imageUrl":"https://www.pocztex.pl/jowisz/uploads/2021/09/ikony_pp-zamow.png",
+               "title":"zamów",
+               "subTitle":"e-znaczek",
+               "meta":{
+                  "bgColor":"#26C6DA"
+               }
+			}
+         ]
+      },
+      {
+         "viewType":"verticalScroll",
+         "header":{
+            "title":"Pionowy wykaz",
+            "hasMore":true
+         },
+         "data":[
+            {
+               "viewType":"verticalItem",
+               "imageUrl":"https://www.pocztex.pl/jowisz/uploads/2021/09/ikony_pp-odbierz.png",
+               "title":"odbierz",
+               "subTitle":"z APM",
+               "meta":{
+                  "bgColor":"#EF5350"
+               }
+            },
+            {
+               "viewType":"verticalItem",
+               "imageUrl":"https://www.pocztex.pl/jowisz/uploads/2021/09/ikony_pp-nadaj.png",
+               "title":"nadaj",
+               "subTitle":"w APM",
+               "meta":{
+                  "bgColor":"#EC407A"
+               }
+            },
+			{
+               "viewType":"verticalItem",
+               "imageUrl":"https://www.pocztex.pl/jowisz/uploads/2021/09/ikony_pp-zwroc.png",
+               "title":"jakiś opis",
+               "subTitle":"druga część",
+               "subTitle":"pieniądze",
+               "meta":{
+                  "bgColor":"#5C6BC0"
+               }
+            },
+			{
+               "viewType":"verticalItem",
+               "imageUrl":"https://www.pocztex.pl/jowisz/uploads/2021/09/ikony_pp-zamow.png",
+               "title":"jakiś opis",
+               "subTitle":"druga część",
+               "meta":{
+                  "bgColor":"#26C6DA"
+               }
+            }
+         ]
+      }
+   ]
+}

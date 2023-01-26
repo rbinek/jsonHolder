@@ -1,0 +1,58 @@
+{
+   "data":[      
+      {
+         "viewType":"horizontalScroll",
+         "header":{
+            "title":"Poziomy wykaz",
+            "hasMore":true
+         },
+         "data":[
+            {
+               "viewType":"horizontalItem",
+               "imageUrl":"https://www.pocztex.pl/jowisz/uploads/2021/10/ikony_pp-znajdz.png",
+               "title":"znajdź",
+               "subTitle":"placówkę",
+               "meta":{
+                  "bgColor":"#EF5350"
+               }
+            },
+            {
+               "viewType":"horizontalItem",
+               "imageUrl":"https://www.pocztex.pl/jowisz/uploads/2021/09/ikony_pp-cennik.png",
+               "title":"szukaj",
+               "subTitle":"szczęścia",
+               "meta":{
+                  "bgColor":"#EC407A"
+               }
+            }
+         ]
+      },
+      {
+         "viewType":"verticalScroll",
+         "header":{
+            "title":"Pionowy wykaz",
+            "hasMore":true
+         },
+         "data":[
+            {
+               "viewType":"verticalItem",
+               "imageUrl":"https://www.pocztex.pl/jowisz/uploads/2021/10/ikony_pp-znajdz.png",
+               "title":"znajdź",
+               "subTitle":"siedzibę",
+               "meta":{
+                  "bgColor":"#EF5350"
+               }
+            },
+            {
+               "viewType":"verticalItem",
+               "imageUrl":"https://www.pocztex.pl/jowisz/uploads/2021/09/ikony_pp-cennik.png",
+               "title":"szukaj",
+               "subTitle":"a znajdziesz",
+				"meta":{
+                  "bgColor":"#EC407A"
+               }
+            }
+         ]
+      }
+   ]
+}
