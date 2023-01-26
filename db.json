@@ -1,31 +1,39 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "data":[
+      {
+         "viewType":"horizontalScroll",
+         "data":[
+           {
+               "ScreenItems":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/hamburger.png",
+               "title":"tytul1",
+               "subTitle":"linia2 - 1",
+               "meta":{
+                  "bgColor":"#EF5350",
+				  "color":"yellow"
+               }
+            },
+            {
+               "ScreenItems":"bannerElement",
+               "imageUrl":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+               "title":"Buy 1 get 1 Free",
+            },
+            {
+               "viewType":"bannerElement",
+               "imageUrl":"https://images.unsplash.com/photo-1497888329096-51c27beff665?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+               "title":"Water Licking Options"               
+            },
+            {
+               "viewType":"bannerElement",
+               "imageUrl":"https://images.unsplash.com/photo-1437750769465-301382cdf094?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+               "title":"Lip-Smacking Biryanis"
+            },
+            {
+               "viewType":"bannerElement",
+               "imageUrl":"https://images.unsplash.com/photo-1506395308321-904a71783d60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+               "title":"Heavenly Pizzas"
+            }
+         ]
+      }      
+   ]
 }
